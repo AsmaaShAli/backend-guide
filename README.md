@@ -19,6 +19,13 @@ ___
 - [HTTP Caching](https://roadmap.sh/guides/http-caching)
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
+### Software Engineering
+- [Software Engineering Introduction](https://www.edx.org/course/software-engineering-introduction)
+- [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
 ### Computer Science Basics
 - [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
 - [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
@@ -26,13 +33,6 @@ ___
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Operating System](https://gumroad.com/l/exGpf)
-
-### Software Engineering
-- [Software Engineering Introduction](https://www.edx.org/course/software-engineering-introduction)
-- [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-- [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
-- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ### Databases
 - [Relational Database System](https://www.coursera.org/learn/relational-database)
