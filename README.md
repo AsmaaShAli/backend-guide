@@ -4,6 +4,7 @@ My own Guide for studying computer science and backend track specially
 ## Table of Contents
 
 - [Basics](#basics)
+- [Computer Science Basics](#computer-science-basics)
 - [Software Engineering](#software-engineering)
 - [Databases](#databases)
 - [Data Structure and Algorithms](#data-structure-and-algorithms)
@@ -16,8 +17,13 @@ My own Guide for studying computer science and backend track specially
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
-### Software Engineering
+### Computer Science Basics
+- [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
+- [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
+- [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
+### Software Engineering
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
