@@ -25,6 +25,7 @@ ___
 - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
+- [Operating System](https://gumroad.com/l/exGpf)
 
 ### Software Engineering
 - [Software Engineering Introduction](https://www.edx.org/course/software-engineering-introduction)
