@@ -12,6 +12,7 @@ My own Guide for studying computer science and backend track specially
 - [Scalability](#scalability)
 - [Miscellaneous](#miscellaneous)
 
+___
 
 ### Basics
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
