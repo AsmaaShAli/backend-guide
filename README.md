@@ -4,8 +4,8 @@ My own Guide for studying computer science and backend track specially
 ## Table of Contents
 
 - [Basics](#basics)
-- [Computer Science Basics](#computer-science-basics)
 - [Software Engineering](#software-engineering)
+- [Computer Science Basics](#computer-science-basics)
 - [Databases](#databases)
 - [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [Scalability](#scalability)
