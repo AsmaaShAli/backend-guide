@@ -25,6 +25,7 @@ ___
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 ### Software Engineering
+- [Software Engineering Introduction](https://www.edx.org/course/software-engineering-introduction)
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
