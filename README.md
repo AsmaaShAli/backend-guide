@@ -20,6 +20,10 @@ ___
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
 ### Software Engineering
+- [How to Code: Simple Data](https://www.edx.org/course/how-to-code-simple-data)
+- [How to Code: Complex Data](https://www.edx.org/course/how-to-code-complex-data)
+- [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction)
+- [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-design)
 - [Software Engineering Introduction](https://www.edx.org/course/software-engineering-introduction)
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
