@@ -38,4 +38,5 @@ My own Guide for studying computer science and backend track specially
 - [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ### Miscellaneous
+- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [Junior To Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
