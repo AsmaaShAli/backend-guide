@@ -14,12 +14,12 @@ My own Guide for studying computer science and backend track specially
 
 ### Basics
 - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
 ### Software Engineering
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 - [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
