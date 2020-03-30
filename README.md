@@ -37,6 +37,7 @@ ___
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Operating System](https://gumroad.com/l/exGpf)
+- [Compilers](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
 
 ### Databases
 - [Relational Database System](https://www.coursera.org/learn/relational-database)
