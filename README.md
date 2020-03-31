@@ -34,7 +34,7 @@ ___
 - [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
 - [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
 - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/college/2020/spring/)
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Operating System](https://gumroad.com/l/exGpf)
 - [Compilers and Interpreter](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
