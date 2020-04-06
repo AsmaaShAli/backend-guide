@@ -14,7 +14,7 @@ My own Guide for studying computer science and backend track specially
 ___
 
 ### Basics
-- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [HTTP](https://www.udacity.com/course/http-web-servers--ud303)
 - [HTTP Caching](https://roadmap.sh/guides/http-caching)
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
