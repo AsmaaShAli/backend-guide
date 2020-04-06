@@ -37,6 +37,7 @@ ___
 - [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [Operating System](https://gumroad.com/l/exGpf)
 - [Compilers and Interpreter](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx)
+- [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)
 
 ### Databases
 - [Relational Database System](https://www.coursera.org/learn/relational-database)
