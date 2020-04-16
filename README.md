@@ -20,6 +20,7 @@ ___
 - [MySQL: Indexing for High Performance]()
 - [MySQL: Query Performance Optimization]()
 - [MySQL: Advanced MySQL Features]()
+- [PHP Security](https://www.php.net/manual/en/security.php)
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
 ### Software Engineering
