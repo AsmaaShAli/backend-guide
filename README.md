@@ -16,6 +16,10 @@ ___
 ### Basics
 - [HTTP](https://www.udacity.com/course/http-web-servers--ud303)
 - [HTTP Caching](https://roadmap.sh/guides/http-caching)
+- [MySQL: Basics](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=8072s)
+- [MySQL: Indexing for High Performance]()
+- [MySQL: Query Performance Optimization]()
+- [MySQL: Advanced MySQL Features]()
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
 
 ### Software Engineering
