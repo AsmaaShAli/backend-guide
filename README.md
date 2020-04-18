@@ -14,8 +14,7 @@ My own Guide for studying computer science and backend track specially
 ___
 
 ### Basics
-- [HTTP](https://www.udacity.com/course/http-web-servers--ud303)
-- [HTTP Caching](https://roadmap.sh/guides/http-caching)
+- [HTTP](https://learning.oreilly.com/library/view/designing-evolvable-web/9781449337919/ch01.html)
 - [MySQL: Basics](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=8072s)
 - [MySQL: Indexing for High Performance]()
 - [MySQL: Query Performance Optimization]()
