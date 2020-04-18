@@ -16,9 +16,9 @@ ___
 ### Basics
 - [HTTP](https://learning.oreilly.com/library/view/designing-evolvable-web/9781449337919/ch01.html)
 - [MySQL: Basics](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=8072s)
-- [MySQL: Indexing for High Performance]()
-- [MySQL: Query Performance Optimization]()
-- [MySQL: Advanced MySQL Features]()
+- [MySQL: Indexing for High Performance](https://learning.oreilly.com/library/view/high-performance-mysql/9781449332471/ch05.html)
+- [MySQL: Query Performance Optimization](https://learning.oreilly.com/library/view/high-performance-mysql/9781449332471/ch06.html)
+- [MySQL: Advanced MySQL Features](https://learning.oreilly.com/library/view/high-performance-mysql/9781449332471/ch07.html)
 - [PHP: PDO](https://www.php.net/manual/en/book.pdo.php)
 - [PHP: Security](https://www.php.net/manual/en/security.php)
 - [Regular Expressions](https://www.udemy.com/course/learn-regular-expressions-in-online-regex-course/)
