@@ -9,6 +9,7 @@ My own Guide for studying computer science and backend track specially
 - [Databases](#databases)
 - [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [Scalability](#scalability)
+- [System Desgin](#system-design)
 - [Miscellaneous](#miscellaneous)
 
 ___
